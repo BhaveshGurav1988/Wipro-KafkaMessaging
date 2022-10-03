@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/XOmrHSFsdAmQRdxAs1lKOGXgAX3TnU8v4nykjJiPWhXSkZ756C6qPo/tMAnEY47KbrHMANJAGOuhVPz6bp83A==",
+  "dgSpecHash": "bAL15A8d/O5bwz2qV9KJIZTMHtJp0tlEoZaBK5LFk/Y841ovaJLi1nYSbNdd35lP1x72Diofg3M1a0zERHIlcg==",
   "success": true,
-  "projectFilePath": "C:\\My Project\\ApacheKafkaProducer\\ApacheKafkaProducer\\ApacheKafkaProducer.csproj",
+  "projectFilePath": "C:\\My Project\\Wipro Kafka\\ApacheKafkaProducer\\ApacheKafkaProducer\\ApacheKafkaProducer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",

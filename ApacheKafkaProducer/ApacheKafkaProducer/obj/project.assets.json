@@ -253,11 +253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Project\\ApacheKafkaProducer\\ApacheKafkaProducer\\ApacheKafkaProducer.csproj",
+      "projectUniqueName": "C:\\My Project\\Wipro Kafka\\ApacheKafkaProducer\\ApacheKafkaProducer\\ApacheKafkaProducer.csproj",
       "projectName": "ApacheKafkaProducer",
-      "projectPath": "C:\\My Project\\ApacheKafkaProducer\\ApacheKafkaProducer\\ApacheKafkaProducer.csproj",
+      "projectPath": "C:\\My Project\\Wipro Kafka\\ApacheKafkaProducer\\ApacheKafkaProducer\\ApacheKafkaProducer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\My Project\\ApacheKafkaProducer\\ApacheKafkaProducer\\obj\\",
+      "outputPath": "C:\\My Project\\Wipro Kafka\\ApacheKafkaProducer\\ApacheKafkaProducer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
