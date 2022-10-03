@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Project\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj": {}
+    "C:\\My Project\\Wipro Kafka\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj": {}
   },
   "projects": {
-    "C:\\My Project\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj": {
+    "C:\\My Project\\Wipro Kafka\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Project\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj",
+        "projectUniqueName": "C:\\My Project\\Wipro Kafka\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj",
         "projectName": "ApacheKafkaConsumer",
-        "projectPath": "C:\\My Project\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj",
+        "projectPath": "C:\\My Project\\Wipro Kafka\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\ApacheKafkaConsumer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\My Project\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\obj\\",
+        "outputPath": "C:\\My Project\\Wipro Kafka\\ApacheKafkaConsumer\\ApacheKafkaConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
